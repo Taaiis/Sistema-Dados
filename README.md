@@ -21,8 +21,6 @@ O sistema permite, via terminal:
    git clone https://github.com/Taaiis/Sistema-Dados.git
    
 Compile o arquivo:
-
-    ```bash
     gcc main.c -o sistema
     
 Execute:
