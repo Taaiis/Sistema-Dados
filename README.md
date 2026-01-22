@@ -20,13 +20,12 @@ O sistema permite, via terminal:
    ```bash
    git clone https://github.com/Taaiis/Sistema-Dados.git
    
-Compile o arquivo:
-   ```
+2. Compile o arquivo:
+```bash
     gcc main.c -o sistema
     
-Execute:
-
-    ```bash
+3. Execute:
+```bash
 ./sistema   # No Linux/Mac
 sistema.exe # No Windows
 
