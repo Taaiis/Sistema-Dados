@@ -19,15 +19,15 @@ O sistema permite, via terminal:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Taaiis/Sistema-Dados.git
+   
 Compile o arquivo:
 
-    ```Bash
-
-gcc main.c -o sistema
+    ```bash
+    gcc main.c -o sistema
+    
 Execute:
 
-    ```Bash
-
+    ```bash
 ./sistema   # No Linux/Mac
 sistema.exe # No Windows
 
