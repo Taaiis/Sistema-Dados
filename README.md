@@ -25,7 +25,8 @@ O sistema permite, via terminal:
     gcc main.c -o sistema
     
 3. Execute:
-```bash ./sistema   # No Linux/Mac
-sistema.exe # No Windows
+```bash
+      ./sistema   # No Linux/Mac
+      sistema.exe # No Windows
 
 Desenvolvido por Taaiis
