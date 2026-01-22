@@ -22,7 +22,7 @@ O sistema permite, via terminal:
    
 2. Compile o arquivo:
 ```bash
-    gcc main.c -o sistema
+gcc main.c -o sistema
 
 3. Execute:
 ```bash
