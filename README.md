@@ -26,6 +26,7 @@ O sistema permite, via terminal:
     
 3. Execute:
 ```bash
+
 ./sistema   # No Linux/Mac
 sistema.exe # No Windows
 
