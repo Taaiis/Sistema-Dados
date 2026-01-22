@@ -23,6 +23,9 @@ O sistema permite, via terminal:
 2. Compile o arquivo:
 ```bash
     gcc main.c -o sistema
+
+./sistema   # No Linux/Mac
+sistema.exe # No Windows
     
 3. Execute:
 ```bash
